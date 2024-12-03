@@ -19,6 +19,6 @@
             const sum = num1 + num2;
             document.getElementById('result').innerText = `Sum: ${sum}`;
         }
-    </script>
+    </script>?dd
 </body>
 </html>
